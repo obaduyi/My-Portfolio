@@ -1,4 +1,7 @@
 @media screen and (max-width: 1400px) {
+    #hamburger-nav {
+      display: none;
+    }
     #profile {
       height: 83vh;
       margin-bottom: 6rem;
